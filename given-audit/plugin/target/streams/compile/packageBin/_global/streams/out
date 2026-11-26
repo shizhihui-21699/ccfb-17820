@@ -1,0 +1,27 @@
+[debug] Packaging /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/target/scala-2.12/sbt-1.0/given-audit-plugin-0.1.0.jar ...
+[debug] Input file mappings:
+[debug] 	givenaudit
+[debug] 	  /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/target/scala-2.12/sbt-1.0/classes/givenaudit
+[debug] 	givenaudit/sbt
+[debug] 	  /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/target/scala-2.12/sbt-1.0/classes/givenaudit/sbt
+[debug] 	givenaudit/sbt/GivenAuditPlugin$Rec$.class
+[debug] 	  /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/target/scala-2.12/sbt-1.0/classes/givenaudit/sbt/GivenAuditPlugin$Rec$.class
+[debug] 	givenaudit/sbt/GivenAuditPlugin$.class
+[debug] 	  /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/target/scala-2.12/sbt-1.0/classes/givenaudit/sbt/GivenAuditPlugin$.class
+[debug] 	givenaudit/sbt/GivenAuditPlugin$Rec.class
+[debug] 	  /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/target/scala-2.12/sbt-1.0/classes/givenaudit/sbt/GivenAuditPlugin$Rec.class
+[debug] 	givenaudit/sbt/GivenAuditPlugin.class
+[debug] 	  /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/target/scala-2.12/sbt-1.0/classes/givenaudit/sbt/GivenAuditPlugin.class
+[debug] 	givenaudit/sbt/GivenAuditPlugin$autoImport$.class
+[debug] 	  /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/target/scala-2.12/sbt-1.0/classes/givenaudit/sbt/GivenAuditPlugin$autoImport$.class
+[debug] 	given-audit
+[debug] 	  /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/target/scala-2.12/sbt-1.0/classes/given-audit
+[debug] 	given-audit/given-audit-inspector-assembly-0.1.0.jar
+[debug] 	  /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/target/scala-2.12/sbt-1.0/classes/given-audit/given-audit-inspector-assembly-0.1.0.jar
+[debug] 	given-audit/jar-name.txt
+[debug] 	  /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/target/scala-2.12/sbt-1.0/classes/given-audit/jar-name.txt
+[debug] 	sbt
+[debug] 	  /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/target/scala-2.12/sbt-1.0/classes/sbt
+[debug] 	sbt/sbt.autoplugins
+[debug] 	  /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/target/scala-2.12/sbt-1.0/classes/sbt/sbt.autoplugins
+[debug] Done packaging.

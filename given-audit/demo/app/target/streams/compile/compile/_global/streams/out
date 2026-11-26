@@ -1,0 +1,33 @@
+[error] -- [E172] Type Error: /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/demo/app/src/main/scala/demo/Clearing.scala:24:40 
+[error] 24 |    val enc = summon[LegacyEncoder[Int]]
+[error]    |                                        ^
+[error]    |No given instance of type auditlib.legacy.LegacyEncoder[Int] was found for parameter x of method summon in object Predef
+[error]    |
+[error]    |The following import might fix the problem:
+[error]    |
+[error]    |  import auditlib.legacy.LegacyEncoders.intEncoder
+[error]    |
+[error] -- [E007] Type Mismatch Error: /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/demo/app/src/main/scala/demo/Clearing.scala:30:26 
+[error] 30 |    val t: LegacyTagged = m          // 触发 LegacyEncoders.moneyToTagged
+[error]    |                          ^
+[error]    |                   Found:    (m : auditlib.legacy.LegacyMoney)
+[error]    |                   Required: auditlib.legacy.TaggedMoney
+[error]    |
+[error]    |                   The following import might fix the problem:
+[error]    |
+[error]    |                     import auditlib.legacy.LegacyEncoders.moneyToTagged
+[error]    |
+[error]    |
+[error]    | longer explanation available when compiling with `-explain`
+[error] -- [E172] Type Error: /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/demo/app/src/main/scala/demo/Clearing.scala:31:49 
+[error] 31 |    val enc = summon[LegacyEncoder[LegacyTagged]]
+[error]    |                                                 ^
+[error]    |No given instance of type auditlib.legacy.LegacyEncoder[auditlib.legacy.TaggedMoney] was found for parameter x of method summon in object Predef
+[error]    |
+[error]    |The following import might fix the problem:
+[error]    |
+[error]    |  import auditlib.legacy.LegacyEncoders.taggedEncoder
+[error]    |
+[warn] there was 1 feature warning; re-run with -feature for details
+[warn] one warning found
+[error] three errors found

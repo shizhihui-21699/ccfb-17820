@@ -1,0 +1,11 @@
+[debug] Packaging /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/target/scala-2.12/sbt-1.0/given-audit-plugin-0.1.0-sources.jar ...
+[debug] Input file mappings:
+[debug] 	sbt/sbt.autoplugins
+[debug] 	  /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/target/scala-2.12/sbt-1.0/resource_managed/main/sbt/sbt.autoplugins
+[debug] 	given-audit/given-audit-inspector-assembly-0.1.0.jar
+[debug] 	  /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/target/scala-2.12/sbt-1.0/resource_managed/main/given-audit/given-audit-inspector-assembly-0.1.0.jar
+[debug] 	given-audit/jar-name.txt
+[debug] 	  /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/target/scala-2.12/sbt-1.0/resource_managed/main/given-audit/jar-name.txt
+[debug] 	givenaudit/sbt/GivenAuditPlugin.scala
+[debug] 	  /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/src/main/scala/givenaudit/sbt/GivenAuditPlugin.scala
+[debug] Done packaging.

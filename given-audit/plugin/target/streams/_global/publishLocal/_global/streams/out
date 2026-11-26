@@ -1,0 +1,95 @@
+[info] :: delivering :: givenaudit#given-audit-plugin;0.1.0 :: 0.1.0 :: release :: Fri Nov 27 02:20:01 CST 2026
+[debug] 	options = status=release pubdate=Fri Nov 27 02:20:01 CST 2026 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null
+[info] 	delivering ivy file to /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/target/scala-2.12/sbt-1.0/ivy-0.1.0.xml
+[debug] 	deliver done (11ms)
+[debug] local do not support transaction. ivy pattern does not use revision as a directory
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/srcs/given-audit-plugin-sources.jar already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/srcs/given-audit-plugin-sources.jar (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/srcs/given-audit-plugin-sources.jar.sha1 already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/srcs/given-audit-plugin-sources.jar.sha1 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/srcs/given-audit-plugin-sources.jar.md5 already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/srcs/given-audit-plugin-sources.jar.md5 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[info] 	published given-audit-plugin to /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/srcs/given-audit-plugin-sources.jar
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/jars/given-audit-plugin_2.12_1.0.jar already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/jars/given-audit-plugin_2.12_1.0.jar (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/jars/given-audit-plugin_2.12_1.0.jar.sha1 already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/jars/given-audit-plugin_2.12_1.0.jar.sha1 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/jars/given-audit-plugin_2.12_1.0.jar.md5 already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/jars/given-audit-plugin_2.12_1.0.jar.md5 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[info] 	published given-audit-plugin_2.12_1.0 to /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/jars/given-audit-plugin_2.12_1.0.jar
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/poms/given-audit-plugin_2.12_1.0.pom already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/poms/given-audit-plugin_2.12_1.0.pom (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/poms/given-audit-plugin_2.12_1.0.pom.sha1 already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/poms/given-audit-plugin_2.12_1.0.pom.sha1 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/poms/given-audit-plugin_2.12_1.0.pom.md5 already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/poms/given-audit-plugin_2.12_1.0.pom.md5 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[info] 	published given-audit-plugin_2.12_1.0 to /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/poms/given-audit-plugin_2.12_1.0.pom
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/poms/given-audit-plugin.pom already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/poms/given-audit-plugin.pom (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/poms/given-audit-plugin.pom.sha1 already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/poms/given-audit-plugin.pom.sha1 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/poms/given-audit-plugin.pom.md5 already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/poms/given-audit-plugin.pom.md5 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[info] 	published given-audit-plugin to /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/poms/given-audit-plugin.pom
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/srcs/given-audit-plugin_2.12_1.0-sources.jar already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/srcs/given-audit-plugin_2.12_1.0-sources.jar (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/srcs/given-audit-plugin_2.12_1.0-sources.jar.sha1 already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/srcs/given-audit-plugin_2.12_1.0-sources.jar.sha1 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/srcs/given-audit-plugin_2.12_1.0-sources.jar.md5 already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/srcs/given-audit-plugin_2.12_1.0-sources.jar.md5 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[info] 	published given-audit-plugin_2.12_1.0 to /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/srcs/given-audit-plugin_2.12_1.0-sources.jar
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/jars/given-audit-plugin.jar already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/jars/given-audit-plugin.jar (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/jars/given-audit-plugin.jar.sha1 already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/jars/given-audit-plugin.jar.sha1 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/jars/given-audit-plugin.jar.md5 already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/jars/given-audit-plugin.jar.md5 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[info] 	published given-audit-plugin to /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/jars/given-audit-plugin.jar
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/docs/given-audit-plugin_2.12_1.0-javadoc.jar already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/docs/given-audit-plugin_2.12_1.0-javadoc.jar (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/docs/given-audit-plugin_2.12_1.0-javadoc.jar.sha1 already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/docs/given-audit-plugin_2.12_1.0-javadoc.jar.sha1 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/docs/given-audit-plugin_2.12_1.0-javadoc.jar.md5 already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/docs/given-audit-plugin_2.12_1.0-javadoc.jar.md5 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[info] 	published given-audit-plugin_2.12_1.0 to /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/docs/given-audit-plugin_2.12_1.0-javadoc.jar
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/docs/given-audit-plugin-javadoc.jar already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/docs/given-audit-plugin-javadoc.jar (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/docs/given-audit-plugin-javadoc.jar.sha1 already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/docs/given-audit-plugin-javadoc.jar.sha1 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/docs/given-audit-plugin-javadoc.jar.md5 already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/docs/given-audit-plugin-javadoc.jar.md5 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[info] 	published given-audit-plugin to /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/docs/given-audit-plugin-javadoc.jar
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/ivys/ivy.xml already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/ivys/ivy.xml (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/ivys/ivy.xml.sha1 already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/ivys/ivy.xml.sha1 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[debug] /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/ivys/ivy.xml.md5 already exists, nothing done
+[warn] Attempting to overwrite /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/ivys/ivy.xml.md5 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[info] 	published ivy to /Users/shizhihui/.ivy2/local/givenaudit/given-audit-plugin/scala_2.12/sbt_1.0/0.1.0/ivys/ivy.xml

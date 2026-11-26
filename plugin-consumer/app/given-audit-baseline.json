@@ -1,0 +1,5 @@
+[
+  {"callSite": "shop.Billing$.bill", "sourceFile": "Billing.scala", "line": 8, "col": 14, "implicitSymbol": "auditlib.Show$.priorityShow", "implicitType": "auditlib.Show.priorityShow", "kind": "given", "sourceLang": "scala3", "origin": "external", "definedAt": "Show.scala:15:3"},
+  {"callSite": "<top-level>", "sourceFile": "Billing.scala", "line": 12, "col": 23, "implicitSymbol": "shop.Billing$.Local$.customShow", "implicitType": "shop.Billing.Local.customShow", "kind": "given", "sourceLang": "scala3", "origin": "owned", "definedAt": "Billing.scala:12:5"},
+  {"callSite": "shop.Billing$.Local$.billLocal", "sourceFile": "Billing.scala", "line": 16, "col": 16, "implicitSymbol": "shop.Billing$.Local$.customShow", "implicitType": "shop.Billing.Local.customShow", "kind": "given", "sourceLang": "scala3", "origin": "owned", "definedAt": "Billing.scala:12:5"}
+]

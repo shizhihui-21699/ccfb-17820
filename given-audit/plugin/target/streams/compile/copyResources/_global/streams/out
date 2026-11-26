@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(/Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/target/scala-2.12/sbt-1.0/resource_managed/main/sbt/sbt.autoplugins,/Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/target/scala-2.12/sbt-1.0/classes/sbt/sbt.autoplugins)
+[debug] 	(/Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/target/scala-2.12/sbt-1.0/resource_managed/main/given-audit/given-audit-inspector-assembly-0.1.0.jar,/Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/target/scala-2.12/sbt-1.0/classes/given-audit/given-audit-inspector-assembly-0.1.0.jar)
+[debug] 	(/Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/target/scala-2.12/sbt-1.0/resource_managed/main/given-audit/jar-name.txt,/Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/target/scala-2.12/sbt-1.0/classes/given-audit/jar-name.txt)

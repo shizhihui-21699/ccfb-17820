@@ -1,0 +1,53 @@
+[warn] /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/src/main/scala/givenaudit/sbt/GivenAuditPlugin.scala:64:9: value lookup of `streams` inside an `if` expression
+[warn] 
+[warn] problem: `streams.value` is inside an `if` expression of a regular task.
+[warn]   Regular tasks always evaluate task dependencies (`.value`) regardless of `if` expressions.
+[warn] solution:
+[warn]   1. Use a conditional task `Def.taskIf(...)` to evaluate it when the `if` predicate is true or false.
+[warn]   2. Or turn the task body into a single `if` expression; the task is then auto-converted to a conditional task. 
+[warn]   3. Or make the static evaluation explicit by declaring `streams.value` outside the `if` expression.
+[warn]   4. If you still want to force the static lookup, you may annotate the task lookup with `@sbtUnchecked`, e.g. `(streams.value: @sbtUnchecked)`.
+[warn]   5. Add `import sbt.dsl.LinterLevel.Ignore` to your build file to disable all task linting.
+[warn]     
+[warn]         streams.value.log.warn(
+[warn]         ^
+[warn] /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/src/main/scala/givenaudit/sbt/GivenAuditPlugin.scala:70:30: value lookup of `/` inside an `if` expression
+[warn] 
+[warn] problem: `/.value` is inside an `if` expression of a regular task.
+[warn]   Regular tasks always evaluate task dependencies (`.value`) regardless of `if` expressions.
+[warn] solution:
+[warn]   1. Use a conditional task `Def.taskIf(...)` to evaluate it when the `if` predicate is true or false.
+[warn]   2. Or turn the task body into a single `if` expression; the task is then auto-converted to a conditional task. 
+[warn]   3. Or make the static evaluation explicit by declaring `/.value` outside the `if` expression.
+[warn]   4. If you still want to force the static lookup, you may annotate the task lookup with `@sbtUnchecked`, e.g. `(/.value: @sbtUnchecked)`.
+[warn]   5. Add `import sbt.dsl.LinterLevel.Ignore` to your build file to disable all task linting.
+[warn]     
+[warn]         val appCp = (Compile / fullClasspath).value.map(_.data)
+[warn]                              ^
+[warn] /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/src/main/scala/givenaudit/sbt/GivenAuditPlugin.scala:75:9: value lookup of `streams` inside an `if` expression
+[warn] 
+[warn] problem: `streams.value` is inside an `if` expression of a regular task.
+[warn]   Regular tasks always evaluate task dependencies (`.value`) regardless of `if` expressions.
+[warn] solution:
+[warn]   1. Use a conditional task `Def.taskIf(...)` to evaluate it when the `if` predicate is true or false.
+[warn]   2. Or turn the task body into a single `if` expression; the task is then auto-converted to a conditional task. 
+[warn]   3. Or make the static evaluation explicit by declaring `streams.value` outside the `if` expression.
+[warn]   4. If you still want to force the static lookup, you may annotate the task lookup with `@sbtUnchecked`, e.g. `(streams.value: @sbtUnchecked)`.
+[warn]   5. Add `import sbt.dsl.LinterLevel.Ignore` to your build file to disable all task linting.
+[warn]     
+[warn]         streams.value.log.info(s"[given-audit] 提取隐式选择 -> ${outJson.getAbsolutePath}")
+[warn]         ^
+[warn] /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/plugin/src/main/scala/givenaudit/sbt/GivenAuditPlugin.scala:76:42: value lookup of `streams` inside an `if` expression
+[warn] 
+[warn] problem: `streams.value` is inside an `if` expression of a regular task.
+[warn]   Regular tasks always evaluate task dependencies (`.value`) regardless of `if` expressions.
+[warn] solution:
+[warn]   1. Use a conditional task `Def.taskIf(...)` to evaluate it when the `if` predicate is true or false.
+[warn]   2. Or turn the task body into a single `if` expression; the task is then auto-converted to a conditional task. 
+[warn]   3. Or make the static evaluation explicit by declaring `streams.value` outside the `if` expression.
+[warn]   4. If you still want to force the static lookup, you may annotate the task lookup with `@sbtUnchecked`, e.g. `(streams.value: @sbtUnchecked)`.
+[warn]   5. Add `import sbt.dsl.LinterLevel.Ignore` to your build file to disable all task linting.
+[warn]     
+[warn]         val rc = forkInspector(cp, args, streams.value.log)
+[warn]                                          ^
+[warn] four warnings found

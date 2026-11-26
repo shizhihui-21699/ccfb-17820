@@ -1,0 +1,7 @@
+[error] -- [E006] Not Found Error: /Users/shizhihui/ccfb/runs/17820/workspace/plugin-consumer/src/main/scala/shop/Billing.scala:3:7 
+[error] 3 |import auditlib.{Amount, render}
+[error]   |       ^^^^^^^^
+[error]   |       Not found: auditlib
+[error]   |
+[error]   | longer explanation available when compiling with `-explain`
+[error] one error found

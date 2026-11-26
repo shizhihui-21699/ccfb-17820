@@ -1,0 +1,5 @@
+[error] -- [E040] Syntax Error: /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/inspector-core/src/main/scala/givenaudit/GivenAudit.scala:88:82 
+[error] 88 |                  origin = if ownPrefixes.exists(p => sym.fullName.startsWith(p)) "owned" else "external",
+[error]    |                                                                                  ^
+[error]    |                               'then' expected, but string literal found
+[error] one error found

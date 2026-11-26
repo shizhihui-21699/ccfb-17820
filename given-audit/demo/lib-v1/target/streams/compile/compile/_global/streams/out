@@ -1,0 +1,5 @@
+[error] -- [E172] Type Error: /Users/shizhihui/ccfb/runs/17820/workspace/given-audit/demo/lib-v1/src/main/scala/auditlib/MacroEncode.scala:20:25 
+[error] 20 |    '{ summon[Encoder[A]].encode($a) }
+[error]    |                         ^
+[error]    |No given instance of type auditlib.Encoder[A] was found for parameter x of method summon in object Predef
+[error] one error found
